@@ -55,7 +55,7 @@ We strive to maintain a welcoming and inclusive community for all contributors. 
 
 ### Contact
 
-If you have any questions, feedback, or suggestions regarding "Epitech Campus Stories", please don't hesitate to reach out to us via [email](mailto:contact@epitechcampusstories.com) or [GitHub issues](https://github.com/epitech-campus-stories/issues).
+If you have any questions, feedback, or suggestions regarding "Epitech Campus Stories", please don't hesitate to reach out to us via [email](mailto:contact@epitechcampusstories.com) or [GitHub issues](https://github.com/HKafuiEPI/hkafuiepi.github.io/issues).
 
 Thank you for your interest in contributing to "Epitech Campus Stories"! We look forward to your contributions and to building a vibrant community together.
 
