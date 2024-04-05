@@ -1,4 +1,4 @@
-*README: "Epitech Campus Stories"*
+README: "Epitech Campus Stories"
 
 Welcome to "Epitech Campus Stories"! This open-source project aims to provide a platform for Epitech students to share their experiences, stories, and insights from campus life. Whether it's about overcoming challenges, sharing successes, or offering advice, this blog serves as a community-driven space for Epitech students to connect and learn from each other.
 
@@ -6,24 +6,30 @@ Welcome to "Epitech Campus Stories"! This open-source project aims to provide a 
 
 "Epitech Campus Stories" is a blog built with modern web technologies. The project primarily consists of two components:
 
-1. *Frontend*: The frontend is responsible for presenting the blog content to users. It includes features such as:
+1. Frontend: The frontend is responsible for presenting the blog content to users. It includes features such as:
    - Viewing published stories
    - Submitting new stories
    - Commenting on stories
    - Searching for specific topics or keywords
 
-2. *Backend*: The backend handles data storage, authentication, and serving content to the frontend. It includes functionalities such as:
+2. Backend: The backend handles data storage, authentication, and serving content to the frontend. It includes functionalities such as:
    - Storing submitted stories and comments
    - Managing user authentication and authorization
    - Providing APIs for frontend interactions
+
+## Demo
+<div id="demo"></div>
+
+[![Image]([https://zupimages.net/up/23/14/vos3.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaufman.usc.edu%2Fstudent-blog-the-campus-experience%2F&psig=AOvVaw2RB43rFF8WFnmnpxXGtrsa&ust=1712419533631000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCinoK6q4UDFQAAAAAdAAAAABAE))]
+
 
 ### How to Contribute
 
 We welcome contributions from the Epitech community to help improve and expand "Epitech Campus Stories". Here's how you can contribute:
 
-1. *Fork the Repository*: Start by forking the repository to your GitHub account.
+1. Fork the Repository: Start by forking the repository to your GitHub account.
 
-2. *Clone the Repository*: Clone the forked repository to your local machine using the following command:
+2. Clone the Repository: Clone the forked repository to your local machine using the following command:
 
 ```
    
