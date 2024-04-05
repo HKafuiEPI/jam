@@ -17,11 +17,7 @@ Welcome to "Epitech Campus Stories"! This open-source project aims to provide a 
    - Managing user authentication and authorization
    - Providing APIs for frontend interactions
 
-## Demo
-<div id="demo"></div>
-
-[![Image]([https://zupimages.net/up/23/14/vos3.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaufman.usc.edu%2Fstudent-blog-the-campus-experience%2F&psig=AOvVaw2RB43rFF8WFnmnpxXGtrsa&ust=1712419533631000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCinoK6q4UDFQAAAAAdAAAAABAE))]
-
+<img width="609" alt="Rebecca-Blog" src="https://github.com/HKafuiEPI/hkafuiepi.github.io/assets/114690768/559e2d75-ebe7-4960-b08f-829e46329c4b">
 
 ### How to Contribute
 
