@@ -24,21 +24,24 @@ We welcome contributions from the Epitech community to help improve and expand "
 1. *Fork the Repository*: Start by forking the repository to your GitHub account.
 
 2. *Clone the Repository*: Clone the forked repository to your local machine using the following command:
+
+```
    
    git clone https://github.com/your-username/epitech-campus-stories.git
-   
 
-3. *Set Up Development Environment*: Follow the setup instructions provided in the project's README to set up your development environment. This may include installing dependencies, configuring environment variables, and setting up a local database.
+```
 
-4. *Pick an Issue or Feature*: Browse through the open issues or features in the repository. Choose an issue or feature you'd like to work on, or propose your own idea for improvement.
+4. *Set Up Development Environment*: Follow the setup instructions provided in the project's README to set up your development environment. This may include installing dependencies, configuring environment variables, and setting up a local database.
 
-5. *Work on Your Contribution*: Once you've chosen an issue or feature, create a new branch to work on your changes. Make your modifications, write tests if applicable, and ensure your code adheres to the project's coding standards.
+5. *Pick an Issue or Feature*: Browse through the open issues or features in the repository. Choose an issue or feature you'd like to work on, or propose your own idea for improvement.
 
-6. *Submit a Pull Request*: Once your contribution is ready, submit a pull request to the main repository. Provide a clear description of your changes, including any relevant details or considerations.
+6. *Work on Your Contribution*: Once you've chosen an issue or feature, create a new branch to work on your changes. Make your modifications, write tests if applicable, and ensure your code adheres to the project's coding standards.
 
-7. *Review and Iterate*: Your pull request will be reviewed by project maintainers. Address any feedback or suggestions provided during the review process, and make any necessary changes.
+7. *Submit a Pull Request*: Once your contribution is ready, submit a pull request to the main repository. Provide a clear description of your changes, including any relevant details or considerations.
 
-8. *Celebrate Your Contribution*: Once your pull request is accepted and merged, celebrate your contribution to "Epitech Campus Stories"! Your work will help improve the platform and benefit the entire Epitech community.
+8. *Review and Iterate*: Your pull request will be reviewed by project maintainers. Address any feedback or suggestions provided during the review process, and make any necessary changes.
+
+9. *Celebrate Your Contribution*: Once your pull request is accepted and merged, celebrate your contribution to "Epitech Campus Stories"! Your work will help improve the platform and benefit the entire Epitech community.
 
 ### Code of Conduct
 
