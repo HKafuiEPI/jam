@@ -5199,3 +5199,10 @@ footer.bg-dark .footer-bottom {
   font-size: 20px;
   color: #1cb9c8;
 }
+
+#publication-list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
